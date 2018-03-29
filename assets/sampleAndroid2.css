@@ -1,0 +1,29 @@
+#jumbo-logo     {
+    width: 100%;
+    margin: 0px;
+    border-radius: 10px;
+}
+
+.jumbotron  {
+    margin: 0px;
+    padding: 0px;
+    border-radius: 10px;
+}
+
+p   {
+    text-align: center;
+}
+
+.topcoat-button-bar {
+    width: 100%;
+}
+
+.topcoat-button-bar__button--large  {
+    width: 100%;
+    height: 50px;
+    background-color: #2f2f2f;
+}
+
+body    {
+    background: radial-gradient(circle, white,#4b4d4e);
+}
